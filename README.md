@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taffisg58
+- 👋 Hi, I’m @taffing58
 - 👀 I’m interested in coding and learning new stuffs
 - 🌱 I’m currently learning Front-End 
 - 💞️ I’m looking to collaborate on Front-End developing projects.
